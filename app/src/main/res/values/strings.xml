@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">ProjetTechAndroid</string>
+    <string name="open_camera">Camera</string>
+    <string name="open_gallery">Gallery</string>
+</resources>
